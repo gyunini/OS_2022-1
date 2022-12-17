@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/gyunismac/Desktop/학교/2022-1/운영체제/sce213-project2/pa2/pa2'
+make: Leaving directory `/Users/gyunismac/Desktop/학교/2022-1/운영체제/sce213-project2/pa2/pa2'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
